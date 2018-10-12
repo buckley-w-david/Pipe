@@ -1,4 +1,4 @@
-# Pipe
+# pipe
 
 `pipe` is a simple implementation of function piping in Python.
 
