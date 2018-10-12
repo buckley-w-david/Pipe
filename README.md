@@ -1,6 +1,6 @@
 # Pipe
 
-`pipe` is a simple implementation of functional style function piping in Python.
+`pipe` is a simple implementation of function piping in Python.
 
 ```python3
 >>> from pipe import Pipe
