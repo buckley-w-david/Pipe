@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "pipe"
-version = "0.2.0"
+version = "0.2.2"
 readme = "README.md"
 description = "Pipe is for piping function calls"
 authors = ["David Buckley <buckley.w.david@gmail.com>"]
